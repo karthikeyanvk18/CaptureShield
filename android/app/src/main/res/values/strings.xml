@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CaptureShield</string>
+    <string name="title_activity_main">CaptureShield</string>
+    <string name="package_name">app.lovable.dfe2b68a94754af19d8c55a77291425d</string>
+    <string name="custom_url_scheme">app.lovable.dfe2b68a94754af19d8c55a77291425d</string>
+</resources>
